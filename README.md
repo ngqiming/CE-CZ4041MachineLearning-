@@ -1,6 +1,6 @@
 # CE-CZ4041MachineLearning-
 
-##Learning how to create Density Estimation though 2D Naive estimator algorithm using python 
+## Learning how to create Density Estimation though 2D Naive estimator algorithm using python 
 
 data.txt - File containing input data 
 
